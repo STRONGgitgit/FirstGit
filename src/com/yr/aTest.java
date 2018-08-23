@@ -6,6 +6,9 @@ public class aTest {
 		a.add();
 	}
 	public void add(){
+		int i =0;
+		a+b=i;
+		
 		
 		
 	}
