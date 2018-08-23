@@ -6,7 +6,7 @@ public class aTest {
 		a.add();
 	}
 	public void add(){
-		System.out.println("改了");
+		
 		
 	}
 	
