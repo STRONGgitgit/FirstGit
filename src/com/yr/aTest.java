@@ -7,7 +7,7 @@ public class aTest {
 	}
 	public void add(){
 		int i =0;
-		a+b=i;
+	
 		
 		
 		
