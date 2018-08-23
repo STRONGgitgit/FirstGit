@@ -5,4 +5,9 @@ public class aTest {
 		System.out.println("aaaaaa");
 	}
 
+	public void add(){
+		System.out.println("hahahah");
+		
+	}
+	
 }
