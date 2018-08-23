@@ -2,6 +2,8 @@ public class OneTest{
     public static void main(String[] args) {
         System.out.println("aaa");
 		System.out.println("add");
+		System.out.println("update");
+		
     }
 }
 
