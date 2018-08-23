@@ -1,11 +1,6 @@
 public class OneTest{
     public static void main(String[] args) {
         System.out.println("aaa");
-         System.out.println("00000");
-		    System.out.println("41541541541");
-		       System.out.println("=================");
-		
-		 
     }
 }
 
