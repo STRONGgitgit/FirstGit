@@ -3,6 +3,7 @@ public class OneTest{
         System.out.println("aaa");
          System.out.println("00000");
 		    System.out.println("sadfsfdas");
+		    System.out.println("请更新！");
 		 
     }
 }
