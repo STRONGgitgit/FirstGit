@@ -7,7 +7,6 @@ public class aTest {
 		System.out.println("--------2");
 		System.out.println("-----2---2");
 	}
-
 	public void add(){
 		System.out.println("hahahah");
 		
