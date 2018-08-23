@@ -5,8 +5,3 @@ public class OneTest{
 		
     }
 }
-
-
-
-git config --global user.email "1024474540@qq.com"
-git config --global user.name "STRONGgitgit"
