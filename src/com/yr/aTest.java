@@ -7,8 +7,6 @@ public class aTest {
 	}
 
 	public void add() {
-		int i = 0;
-		System.out.println(i);
 		System.out.println(11111111);
 		
 	}
